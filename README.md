@@ -1,6 +1,19 @@
 bootstrap-select
 ================
 
+current version fork form *silviomoreto* 
+
+##Fork Feature 
+
+1. support Ajax Search like jQuery UI  *autocomplete* (steal code form autocomplete)
+2. support `addSource` method
+3. rewrite render core and back compat to version 1.6.3 
+
+detail change please see the code diff, may some small feature don't implement.
+
+---
+
+
 [![Latest release](https://img.shields.io/github/release/silviomoreto/bootstrap-select.svg)](https://github.com/silviomoreto/bootstrap-select/releases/latest)
 [![Bower](https://img.shields.io/bower/v/bootstrap-select.svg)]()
 [![npm](https://img.shields.io/npm/v/bootstrap-select.svg)](https://www.npmjs.com/package/bootstrap-select)
